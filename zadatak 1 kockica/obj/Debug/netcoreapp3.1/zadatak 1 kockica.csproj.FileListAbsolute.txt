@@ -1,0 +1,14 @@
+C:\student\oop\lv1\lv1\zadatak 1 kockica\bin\Debug\netcoreapp3.1\zadatak 1 kockica.exe
+C:\student\oop\lv1\lv1\zadatak 1 kockica\bin\Debug\netcoreapp3.1\zadatak 1 kockica.deps.json
+C:\student\oop\lv1\lv1\zadatak 1 kockica\bin\Debug\netcoreapp3.1\zadatak 1 kockica.runtimeconfig.json
+C:\student\oop\lv1\lv1\zadatak 1 kockica\bin\Debug\netcoreapp3.1\zadatak 1 kockica.runtimeconfig.dev.json
+C:\student\oop\lv1\lv1\zadatak 1 kockica\bin\Debug\netcoreapp3.1\zadatak 1 kockica.dll
+C:\student\oop\lv1\lv1\zadatak 1 kockica\bin\Debug\netcoreapp3.1\zadatak 1 kockica.pdb
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.csproj.AssemblyReference.cache
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.GeneratedMSBuildEditorConfig.editorconfig
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.AssemblyInfoInputs.cache
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.AssemblyInfo.cs
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.csproj.CoreCompileInputs.cache
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.dll
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.pdb
+C:\student\oop\lv1\lv1\zadatak 1 kockica\obj\Debug\netcoreapp3.1\zadatak 1 kockica.genruntimeconfig.cache
