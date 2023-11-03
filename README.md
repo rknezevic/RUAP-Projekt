@@ -1,3 +1,3 @@
 # RUAP-Projekt
 
-prva labaratorijska vjezba za git
+prva labaratorijska vjezba za git.
